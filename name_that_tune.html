@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Name That Tune!</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="app.js"></script>
+</head>
+
+<body>
+
+    <div id="mainDiv" class="mainDiv">
+
+        <div id="headingDiv" class="headingDiv">
+            <h1>Name That Tune!</h1>
+        </div>
+
+        <div id="trackInformationDiv" class="trackInformationDiv">
+
+            <div id="trackImageDiv" class="trackImageDiv">
+                <img id="trackImage" class="trackImage" src="">
+            </div>
+
+            <div id="trackDetailsDiv" class="trackDetailsDiv">
+                <h1 id="trackDetails"></h1>
+            </div>
+        </div>
+
+        <div id="buttonsDiv" class="buttonsDiv">
+            <button id="answerButton">Show Answer</button>
+            <button id="audioButton">Play/Pause</button>
+            <button id="nextButton">Next</button>
+        </div>
+
+        <div id="footerDiv" class="footerDiv">
+            <form id="selectDecade">
+                <label>
+                    <input type="radio" name="selectedDecade" value="data_allout20s.json" id="allout20s" checked>2020s
+                </label>
+                <label>
+                    <input type="radio" name="selectedDecade" value="data_allout10s.json" id="allout10s">2010s
+                </label>
+                <label>
+                    <input type="radio" name="selectedDecade" value="data_allout00s.json" id="allout00s">2000s
+                </label>
+                <label>
+                    <input type="radio" name="selectedDecade" value="data_allout90s.json" id="allout90s">1990s
+                </label><br>
+                <label>
+                    <input type="radio" name="selectedDecade" value="data_allout80s.json" id="allout80s">1980s
+                </label>
+                <label>
+                    <input type="radio" name="selectedDecade" value="data_allout70s.json" id="allout70s">1970s
+                </label>
+                <label>
+                    <input type="radio" name="selectedDecade" value="data_allout60s.json" id="allout60s">1960s
+                </label>
+                <label>
+                    <input type="radio" name="selectedDecade" value="data_allout50s.json" id="allout50s">1950s
+                </label>        
+            </form>
+        </div>
+
+    </div>
+
+    <audio autoplay loop id="audioPlayer">
+        <source id="audioPlayerSource" src="" type="audio/mpeg">
+    </audio>
+
+</body>
+
+</html>

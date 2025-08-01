@@ -1,0 +1,4670 @@
+[
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02aa22899360d8ba6704732dec",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851aa22899360d8ba6704732dec",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979"
+            },
+            "artists": [
+                {
+                    "name": "ABBA"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/02603b1ac0f95d780cdda0f09ed9c19cdb53089f?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Gimme! Gimme! Gimme! (A Man After Midnight)"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d8cf89522a24e6c9b90cb2c2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d8cf89522a24e6c9b90cb2c2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d8cf89522a24e6c9b90cb2c2",
+                        "width": 64
+                    }
+                ],
+                "release_date": "2014-03-25"
+            },
+            "artists": [
+                {
+                    "name": "Earth, Wind & Fire"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/833992fde53b3ccc107432d0aef29b63d07169f0?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "September"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273503143a281a3f30268dcd9f9",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02503143a281a3f30268dcd9f9",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851503143a281a3f30268dcd9f9",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1975-08-25"
+            },
+            "artists": [
+                {
+                    "name": "Bruce Springsteen"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/442d88c6d7caccd1fd655425bd4bf1bfb4b33831?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Born to Run"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27342a15a4fe15a8a88ab728d5b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0242a15a4fe15a8a88ab728d5b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485142a15a4fe15a8a88ab728d5b",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1975-10-24"
+            },
+            "artists": [
+                {
+                    "name": "Elton John"
+                },
+                {
+                    "name": "Kiki Dee"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/a1ac078e1ebc26f93431ccd9b5eec2c8c6dc2272?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Don't Go Breaking My Heart"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02aa22899360d8ba6704732dec",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851aa22899360d8ba6704732dec",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979"
+            },
+            "artists": [
+                {
+                    "name": "ABBA"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/adb0760cf03e97f3a142a89964afceffa9e323b1?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Voulez-Vous"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273af7afb5c49afd3133fa2a6c9",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02af7afb5c49afd3133fa2a6c9",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851af7afb5c49afd3133fa2a6c9",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979-01-01"
+            },
+            "artists": [
+                {
+                    "name": "Rupert Holmes"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/401f9287bb59b5b87fb49025e3f9d3c5c73f3713?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Escape (The Pina Colada Song)"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27379e5e2b1860079d662a9bb76",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0279e5e2b1860079d662a9bb76",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485179e5e2b1860079d662a9bb76",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1975-01-01"
+            },
+            "artists": [
+                {
+                    "name": "Natalie Cole"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/ec7e346ae360a1056256fdb813e0961a6e9b5f46?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "This Will Be (An Everlasting Love)"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b68df485f3304211904548a8",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b68df485f3304211904548a8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b68df485f3304211904548a8",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978-04-04"
+            },
+            "artists": [
+                {
+                    "name": "John Travolta"
+                },
+                {
+                    "name": "Olivia Newton-John"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/884b80e276aa1c46c5061b205acf1a85fe855e88?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "You're The One That I Want - From “Grease”"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0216aaf05fe82237576a7d0e38",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485116aaf05fe82237576a7d0e38",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1969-12-18"
+            },
+            "artists": [
+                {
+                    "name": "The Jackson 5"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/504a5a3f9e28a41907c91d82a811017559e3c0d4?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "I Want You Back"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27392d0747a634fcc351c6ac3c2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0292d0747a634fcc351c6ac3c2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485192d0747a634fcc351c6ac3c2",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1975"
+            },
+            "artists": [
+                {
+                    "name": "ABBA"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/b578f8867804a1545b49ef6aea52bd0b8ec766d4?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Mamma Mia"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ea04468e11c67890666d2b34",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ea04468e11c67890666d2b34",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851ea04468e11c67890666d2b34",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1976"
+            },
+            "artists": [
+                {
+                    "name": "Candi Staton"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/0cd4abdbb898e1e076b758f5a61ed9f5ce062ed8?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Young Hearts Run Free"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e49b4b79f376c0bc6e0c079b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e49b4b79f376c0bc6e0c079b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e49b4b79f376c0bc6e0c079b",
+                        "width": 64
+                    }
+                ],
+                "release_date": "2005-04-25"
+            },
+            "artists": [
+                {
+                    "name": "Daryl Hall & John Oates"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/58f5138a4cbb59260d07d1e602db563c3f456285?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Rich Girl"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ef063cb80508c55eb443a671",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ef063cb80508c55eb443a671",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851ef063cb80508c55eb443a671",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978-05-05"
+            },
+            "artists": [
+                {
+                    "name": "Bob Seger"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/334dff2915c9b754318f8231abd68c064e9a0d1f?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Old Time Rock & Roll"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0217e1907923e91181f38290ac",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485117e1907923e91181f38290ac",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1974-04-15"
+            },
+            "artists": [
+                {
+                    "name": "Lynyrd Skynyrd"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/125986ae6eb995983b84776b7e0d368f6a74cbbf?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Sweet Home Alabama"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0270f7a1b35d5165c85b95a0e0",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485170f7a1b35d5165c85b95a0e0",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1976"
+            },
+            "artists": [
+                {
+                    "name": "ABBA"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/1116076e3d1538852d6605ada1fd7130c8fc75a5?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Dancing Queen"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d03ab2da904d8251a87bbc31",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d03ab2da904d8251a87bbc31",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d03ab2da904d8251a87bbc31",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1971-11-05"
+            },
+            "artists": [
+                {
+                    "name": "Elton John"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/dec7d3447047ab13ad2c2be75e8e2916262f301b?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Tiny Dancer"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273206e2e76c3a706e4734d18ab",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02206e2e76c3a706e4734d18ab",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851206e2e76c3a706e4734d18ab",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1975"
+            },
+            "artists": [
+                {
+                    "name": "The Four Seasons"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/a92fa5140f2248a7f8669ab6620ca901528c6231?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "December, 1963 (Oh What a Night!)"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b2439940aedd2801c9ae2e5b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b2439940aedd2801c9ae2e5b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b2439940aedd2801c9ae2e5b",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1974-04-01"
+            },
+            "artists": [
+                {
+                    "name": "Blue Swede"
+                },
+                {
+                    "name": "Björn Skifs"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/349b959f3339c75b269ab47a0f576c5f39ba46cd?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Hooked On A Feeling"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273524e9e45a2e0067b8189a92e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02524e9e45a2e0067b8189a92e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851524e9e45a2e0067b8189a92e",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1973-07-16"
+            },
+            "artists": [
+                {
+                    "name": "Elvis Presley"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/cdfad3ecd149e4843e9af7def31cf244a9511988?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Burning Love"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27352038992fc6d7868f31d23b7",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0252038992fc6d7868f31d23b7",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485152038992fc6d7868f31d23b7",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979-01-01"
+            },
+            "artists": [
+                {
+                    "name": "Bee Gees"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/8f43872d18d4027177f10b909ef4d1d9b0553b5f?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27346814e1b44e54d806753801e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0246814e1b44e54d806753801e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485146814e1b44e54d806753801e",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1973-11-01"
+            },
+            "artists": [
+                {
+                    "name": "Redbone"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/beb70a209af1e258ff3af3a01c92cc6a7295c7bb?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Come and Get Your Love - Single Version"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-02-04"
+            },
+            "artists": [
+                {
+                    "name": "Fleetwood Mac"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/30d63954de3ee9c0bc3600a4560260cb252d4fbd?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Dreams - 2004 Remaster"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d419ed4f1e89669ce14bd369",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d419ed4f1e89669ce14bd369",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1976"
+            },
+            "artists": [
+                {
+                    "name": "Wild Cherry"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/4b3c574d2e102bf5140c29d2934f2f0d5dc7bfcf?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Play That Funky Music"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730085dd4362653ef4c54ebbeb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e020085dd4362653ef4c54ebbeb",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048510085dd4362653ef4c54ebbeb",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1971"
+            },
+            "artists": [
+                {
+                    "name": "Don McLean"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/555b08d0fea79ebea7f032d86ad5446557600106?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "American Pie"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c5a010463c2b450902e57599",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c5a010463c2b450902e57599",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851c5a010463c2b450902e57599",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-06-10"
+            },
+            "artists": [
+                {
+                    "name": "The Emotions"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/184d7bc77159a53bffe1930a0179ae9138c78ef9?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Best of My Love"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0251f311c2fb06ad2789e3ff91",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485151f311c2fb06ad2789e3ff91",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1970-12-07"
+            },
+            "artists": [
+                {
+                    "name": "Creedence Clearwater Revival"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/9b5348b8d7c6bb14b63998903a46348657f70c2e?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Have You Ever Seen The Rain"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27357df7ce0eac715cf70e519a7",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0257df7ce0eac715cf70e519a7",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485157df7ce0eac715cf70e519a7",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-02-04"
+            },
+            "artists": [
+                {
+                    "name": "Fleetwood Mac"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/26ba8ef966c08f5116fd5ab94efc7a8671e640f5?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Go Your Own Way - 2004 Remaster"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c13acd642ba9f6f5f127aa1b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c13acd642ba9f6f5f127aa1b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851c13acd642ba9f6f5f127aa1b",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1972-06-01"
+            },
+            "artists": [
+                {
+                    "name": "Eagles"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/4b32d39b05829f2c442aa869354f0f63cefcef24?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Take It Easy - 2013 Remaster"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e028c1fadcc997a65384f34d694",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048518c1fadcc997a65384f34d694",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1976"
+            },
+            "artists": [
+                {
+                    "name": "Boston"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/4e8704349932ecb754e3c03cdf3b1563309627a0?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "More Than a Feeling"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736631eaa4a70b4884c0ef1a06",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e026631eaa4a70b4884c0ef1a06",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048516631eaa4a70b4884c0ef1a06",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1970-08-07"
+            },
+            "artists": [
+                {
+                    "name": "Stevie Wonder"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/9d87c04f6a608a83ef62f03ac99c72c7b31a563b?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Signed, Sealed, Delivered (I'm Yours)"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273387799441ba867649dfbb702",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02387799441ba867649dfbb702",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851387799441ba867649dfbb702",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978"
+            },
+            "artists": [
+                {
+                    "name": "Bob Marley & The Wailers"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/8bbaf3fbb1801c0b9a94fdec7d4eaa69f5b36a9f?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Is This Love"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e024fb043195e8d07e72edc7226",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048514fb043195e8d07e72edc7226",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1975-07-11"
+            },
+            "artists": [
+                {
+                    "name": "Fleetwood Mac"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/c56024c487393715da130f026ba98a4a529a46e0?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Landslide"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2735ade9b4d547203c9061fc340",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e025ade9b4d547203c9061fc340",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048515ade9b4d547203c9061fc340",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-10-29"
+            },
+            "artists": [
+                {
+                    "name": "Bill Withers"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/fdd27d4b10c891ee9e00b1820484b8898fcf905a?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Lovely Day"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27386e5468d84ed66f06d9a799e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0286e5468d84ed66f06d9a799e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485186e5468d84ed66f06d9a799e",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978-12-17"
+            },
+            "artists": [
+                {
+                    "name": "The Jacksons"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/7764eed1ae614362f9555556d0c47ddbee0e9089?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Blame It on the Boogie"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e024b292ed7c7360a04d3d6b74a",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048514b292ed7c7360a04d3d6b74a",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1970-04-10"
+            },
+            "artists": [
+                {
+                    "name": "Elton John"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/c0fb911d5fbdbed3e6e9da543dce6a3778638156?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Your Song"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27326399936751b54c7e9782324",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0226399936751b54c7e9782324",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485126399936751b54c7e9782324",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1974-02-04"
+            },
+            "artists": [
+                {
+                    "name": "Dolly Parton"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/66cd00686ab84843e560ae024e60e8bf0fba786d?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Jolene"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d7f3e4d143c198d3542a775d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d7f3e4d143c198d3542a775d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d7f3e4d143c198d3542a775d",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-06-03"
+            },
+            "artists": [
+                {
+                    "name": "Bob Marley & The Wailers"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/30af46efcab458c3535755bc384cef034e2519b1?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Three Little Birds"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731af9e8390e2d251b916d9185",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e021af9e8390e2d251b916d9185",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048511af9e8390e2d251b916d9185",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1972"
+            },
+            "artists": [
+                {
+                    "name": "Carly Simon"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/f4a1b79744edc4652f60e676e77193b4bf1e9528?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "You're So Vain"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27352cc0969572e48332f0bf982",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0252cc0969572e48332f0bf982",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485152cc0969572e48332f0bf982",
+                        "width": 64
+                    }
+                ],
+                "release_date": "2014-06-23"
+            },
+            "artists": [
+                {
+                    "name": "TOTO"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/e1fda3b8cda5e00cd8be2f02fe9d54839fc5ef3c?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Hold the Line"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02008b06ec71019afd70153889",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851008b06ec71019afd70153889",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978-11-10"
+            },
+            "artists": [
+                {
+                    "name": "Queen"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/57232e14c7a69050e17ca1c49cc65787f9253916?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Don't Stop Me Now - Remastered 2011"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d6806ddfc58bbaa0cb3e9fa5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d6806ddfc58bbaa0cb3e9fa5",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d6806ddfc58bbaa0cb3e9fa5",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978-11-24"
+            },
+            "artists": [
+                {
+                    "name": "Rod Stewart"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/d7c9823901cd954ea4ecdb90f920f422d7238714?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Da Ya Think I'm Sexy?"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e027027294551db4fda68b5ddac",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048517027294551db4fda68b5ddac",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979-08-10"
+            },
+            "artists": [
+                {
+                    "name": "Michael Jackson"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/266818d14bb3fd8ef1cd8f67115f60034a786e22?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Don't Stop 'Til You Get Enough"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02375445cc7a2aedff11361b51",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851375445cc7a2aedff11361b51",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1973-01-01"
+            },
+            "artists": [
+                {
+                    "name": "Steve Miller Band"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/6291f55a2e6ef6e126bb2c25cc4b62288ba804e0?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "The Joker"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02aff4aef671b2510be7c115b3",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851aff4aef671b2510be7c115b3",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1973-11-07"
+            },
+            "artists": [
+                {
+                    "name": "Billy Joel"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/15c3badbac17e832e321cfb0be8f53f92708021b?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Piano Man"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a03bcdbf45f9ed71cf0947bd",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a03bcdbf45f9ed71cf0947bd",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851a03bcdbf45f9ed71cf0947bd",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1975"
+            },
+            "artists": [
+                {
+                    "name": "Hot Chocolate"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/cf7d6e0e8f7cb98c438805bbb5631fbc45891e3f?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "You Sexy Thing"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b68df485f3304211904548a8",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b68df485f3304211904548a8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b68df485f3304211904548a8",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978-04-04"
+            },
+            "artists": [
+                {
+                    "name": "John Travolta"
+                },
+                {
+                    "name": "Olivia Newton-John"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/d850bad5ab67f8475a5d9c72cc98ce48c00f0d9f?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Summer Nights - From “Grease”"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e023009007708ab5134936a58b3",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048513009007708ab5134936a58b3",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1972-05-19"
+            },
+            "artists": [
+                {
+                    "name": "Elton John"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/c7316d016815fab0bb5ecb309da33e57d4da69c5?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739d52169c3b609d4630e04433",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e029d52169c3b609d4630e04433",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048519d52169c3b609d4630e04433",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-01-01"
+            },
+            "artists": [
+                {
+                    "name": "Commodores"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/10044c94985e802666a02616d3ef63117dd105fd?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Easy"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c129b7e46bb0d8b054dae51f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c129b7e46bb0d8b054dae51f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851c129b7e46bb0d8b054dae51f",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-11-15"
+            },
+            "artists": [
+                {
+                    "name": "Bee Gees"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/5a2a703394e23384d20c088485bed547a83d2720?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "More Than A Woman"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e026ce61113662ecf693b605ee5",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977"
+            },
+            "artists": [
+                {
+                    "name": "Billy Joel"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/20063b69f912e042929de74af0b77271ec3376c5?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Vienna"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736effa8520bc566806f680860",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e026effa8520bc566806f680860",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048516effa8520bc566806f680860",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978"
+            },
+            "artists": [
+                {
+                    "name": "Village People"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/38d0c3a546bf161e49e669924aaaa03ac384551b?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Y.M.C.A."
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f72f1e38e9bd48f18a17ed9b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f72f1e38e9bd48f18a17ed9b",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1973-10-05"
+            },
+            "artists": [
+                {
+                    "name": "Elton John"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/cc3be345afbbebbaf1e785916bd8755adfb4bf99?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Bennie And The Jets - Remastered 2014"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0293c65b02f4a72cd6eccf446d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485193c65b02f4a72cd6eccf446d",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-10-28"
+            },
+            "artists": [
+                {
+                    "name": "Queen"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/61a3b4ea573f47167cae7eedc8f7fb189e4c6114?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "We Will Rock You - Remastered 2011"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e027027294551db4fda68b5ddac",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048517027294551db4fda68b5ddac",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979-08-10"
+            },
+            "artists": [
+                {
+                    "name": "Michael Jackson"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/45231ae15282719f56800bb115b90eea2130866c?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Rock with You - Single Version"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739a0011cc9d31cf969b656905",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e029a0011cc9d31cf969b656905",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048519a0011cc9d31cf969b656905",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1970-01-01"
+            },
+            "artists": [
+                {
+                    "name": "Edison Lighthouse"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/7cf77688f02e03e242216149c4cc0b0742bbb7c1?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Love Grows (Where My Rosemary Goes)"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273605128d275ca60ccc9cd3b6d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02605128d275ca60ccc9cd3b6d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851605128d275ca60ccc9cd3b6d",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-12-12"
+            },
+            "artists": [
+                {
+                    "name": "Bee Gees"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/0f667d5e78b21097e5439718edf347b807965cb2?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f8f0a26e4100c490bc384003",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f8f0a26e4100c490bc384003",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f8f0a26e4100c490bc384003",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1973-08-28"
+            },
+            "artists": [
+                {
+                    "name": "Marvin Gaye"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/d9197739458a6369d8fe64ed4c4ccd3912a9100c?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Let's Get It On"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0207744e2ed983efa3e6620a47",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485107744e2ed983efa3e6620a47",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1980-06-27"
+            },
+            "artists": [
+                {
+                    "name": "Queen"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/9d765b7881d77c76993f65223a308932f323c302?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Crazy Little Thing Called Love - Remastered 2011"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734c95b7cf28c3015c914218e4",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e024c95b7cf28c3015c914218e4",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048514c95b7cf28c3015c914218e4",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1972"
+            },
+            "artists": [
+                {
+                    "name": "Looking Glass"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/0e7f01cc3908ccf6a70822b81a8d1834822cb1fc?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Brandy (You're a Fine Girl)"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a19cee952b6dae128d68f116",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a19cee952b6dae128d68f116",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851a19cee952b6dae128d68f116",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1997-06-17"
+            },
+            "artists": [
+                {
+                    "name": "John Denver"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/b0805419e05dd1872abea1d5a798399be024cde8?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Take Me Home, Country Roads"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b68df485f3304211904548a8",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b68df485f3304211904548a8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b68df485f3304211904548a8",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978-04-04"
+            },
+            "artists": [
+                {
+                    "name": "Olivia Newton-John"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/6280980219425f18098ed42c3ea8a9fe0cea78d0?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Hopelessly Devoted To You - From “Grease”"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27391b51fa9b5967fb34c044498",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0291b51fa9b5967fb34c044498",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485191b51fa9b5967fb34c044498",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1972"
+            },
+            "artists": [
+                {
+                    "name": "The Doobie Brothers"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/8c0f0e1fcc1d1e6cb3baa54024b9181eff5ecf59?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Listen to the Music"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c0e98d7c48b548f1a3833368",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c0e98d7c48b548f1a3833368",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851c0e98d7c48b548f1a3833368",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978-07-17"
+            },
+            "artists": [
+                {
+                    "name": "Cheryl Lynn"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/74844a5acf98a35f2cc4b91b12f2f559f08fab68?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Got to Be Real"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e021d4675d5a0345bb93686e4b6",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048511d4675d5a0345bb93686e4b6",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978-10-13"
+            },
+            "artists": [
+                {
+                    "name": "Billy Joel"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/ea8d69cbc7ef1b94ddf42817cc14454c3bd9988d?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "My Life"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27395313a5eee00d9bdf37883e2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0295313a5eee00d9bdf37883e2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485195313a5eee00d9bdf37883e2",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1976-12-10"
+            },
+            "artists": [
+                {
+                    "name": "Queen"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/9954fe5d3a1456234bc7ea75e25e4bf69d68b224?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Somebody To Love - Remastered 2011"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2735ccd022a69a4da9551efd988",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e025ccd022a69a4da9551efd988",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048515ccd022a69a4da9551efd988",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979-06"
+            },
+            "artists": [
+                {
+                    "name": "Earth, Wind & Fire"
+                },
+                {
+                    "name": "The Emotions"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/869e08436f167d24422f9d88300490539015b8ab?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Boogie Wonderland (with The Emotions)"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b68df485f3304211904548a8",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b68df485f3304211904548a8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b68df485f3304211904548a8",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978-04-04"
+            },
+            "artists": [
+                {
+                    "name": "Frankie Valli"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/4e3227992f6ebfd2544d0dd479fd173317f05f5a?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Grease - From “Grease”"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d7f3e4d143c198d3542a775d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d7f3e4d143c198d3542a775d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d7f3e4d143c198d3542a775d",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-06-03"
+            },
+            "artists": [
+                {
+                    "name": "Bob Marley & The Wailers"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/4dbc8e6ca351beb364ae0bbe3ea0f6ed6b776ee1?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Jamming"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27352038992fc6d7868f31d23b7",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0252038992fc6d7868f31d23b7",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485152038992fc6d7868f31d23b7",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979-01-01"
+            },
+            "artists": [
+                {
+                    "name": "Bee Gees"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/d9e96ef2af8fdf857c1e8dc255136e4836c6ae2d?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "How Deep Is Your Love"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739df68560791d0b3dab491867",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e029df68560791d0b3dab491867",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048519df68560791d0b3dab491867",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1970-05-08"
+            },
+            "artists": [
+                {
+                    "name": "The Jackson 5"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/b111890c9feb83f8e1b72a138961c09bd025a254?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "ABC"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27370b6cfff0487d653a8c7ce01",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0270b6cfff0487d653a8c7ce01",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485170b6cfff0487d653a8c7ce01",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1980-01-10"
+            },
+            "artists": [
+                {
+                    "name": "The Buggles"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/0d0dbf059733ddc5252c7867827fa4e76961fd5e?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Video Killed The Radio Star"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27334fb2b0117a542d515dc78d6",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0234fb2b0117a542d515dc78d6",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485134fb2b0117a542d515dc78d6",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1971"
+            },
+            "artists": [
+                {
+                    "name": "John Denver"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/c2ab971d183b0c08d1b0ec1f4cbc27c778c6ce13?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Take Me Home, Country Roads - Original Version"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fa5dcfc4b1b99a0598224758",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fa5dcfc4b1b99a0598224758",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851fa5dcfc4b1b99a0598224758",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-06-20"
+            },
+            "artists": [
+                {
+                    "name": "Ram Jam"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/c2be3d98da62f643e634154e835dae936d79bf90?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Black Betty"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736f705bef76c1d861c4d51d8c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e026f705bef76c1d861c4d51d8c",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048516f705bef76c1d861c4d51d8c",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977"
+            },
+            "artists": [
+                {
+                    "name": "ABBA"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/a4f1d26b231c702d09d1a0301a22021c47ceab0a?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Take A Chance On Me"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e37d5190acaf635f06cfcc4b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e37d5190acaf635f06cfcc4b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e37d5190acaf635f06cfcc4b",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978-08-11"
+            },
+            "artists": [
+                {
+                    "name": "CHIC"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/866259f80fdc5ad407ea3fb300aa74bde9635e62?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Le Freak - 2018 Remaster"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ace2bedb8e6cfa04207d5c0f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ace2bedb8e6cfa04207d5c0f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851ace2bedb8e6cfa04207d5c0f",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978-09-23"
+            },
+            "artists": [
+                {
+                    "name": "Blondie"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/e67491736b0c6848f7419498ba7b23af9e085952?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "One Way Or Another"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a1fc113a6858d0824d9aaf38",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a1fc113a6858d0824d9aaf38",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851a1fc113a6858d0824d9aaf38",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1972"
+            },
+            "artists": [
+                {
+                    "name": "Al Green"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/027817c11eaff28a45d96046a1c5da43d8a1e155?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Let's Stay Together"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0293c65b02f4a72cd6eccf446d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485193c65b02f4a72cd6eccf446d",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-10-28"
+            },
+            "artists": [
+                {
+                    "name": "Queen"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/53f9595b73edaa7af3eac56494b0cad5221e8563?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "We Are The Champions - Remastered 2011"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2738cffbbb7fe8645a486a85ea9",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e028cffbbb7fe8645a486a85ea9",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048518cffbbb7fe8645a486a85ea9",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1975-04-08"
+            },
+            "artists": [
+                {
+                    "name": "Aerosmith"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/00ff7546765ecb2fd9f22d3f9bdd13cddcda2576?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Sweet Emotion"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273061849da201f99053bf5e788",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02061849da201f99053bf5e788",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851061849da201f99053bf5e788",
+                        "width": 64
+                    }
+                ],
+                "release_date": "2003-10-21"
+            },
+            "artists": [
+                {
+                    "name": "Eagles"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/6fedc11d0f55bef176cc1c5725ac1c57f9a2534a?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Hotel California - 2013 Remaster"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27351c02a77d09dfcd53c8676d0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0251c02a77d09dfcd53c8676d0",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485151c02a77d09dfcd53c8676d0",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979-07-27"
+            },
+            "artists": [
+                {
+                    "name": "AC/DC"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/e5dde93998c6b622d0ac236ceeaabd49481da078?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Highway to Hell"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-02-04"
+            },
+            "artists": [
+                {
+                    "name": "Fleetwood Mac"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/9cd01344e96f8dfaf0fb47fbb36d9da930daab2f?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "The Chain - 2004 Remaster"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273aa3252b7843a8a3426cc34bf",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02aa3252b7843a8a3426cc34bf",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851aa3252b7843a8a3426cc34bf",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1974-02-15"
+            },
+            "artists": [
+                {
+                    "name": "Barry White"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/5f54b6804586eb32b50efe700238371632d17e89?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Can't Get Enough Of Your Love, Babe"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ae954a17f0cfa013c364bb06",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ae954a17f0cfa013c364bb06",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851ae954a17f0cfa013c364bb06",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977"
+            },
+            "artists": [
+                {
+                    "name": "Electric Light Orchestra"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/db197937a77b0b1b8a977fe26a14334885d4d156?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Mr. Blue Sky"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734c5fac07f80bad278dfbad1e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e024c5fac07f80bad278dfbad1e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048514c5fac07f80bad278dfbad1e",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1996-11-08"
+            },
+            "artists": [
+                {
+                    "name": "Chaka Khan"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/6182aaff4fbd7b77e8861c82de0d7b4ff8370c7d?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "I'm Every Woman"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d38733f240ef69763120a469",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d38733f240ef69763120a469",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d38733f240ef69763120a469",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1976-11-09"
+            },
+            "artists": [
+                {
+                    "name": "Tom Petty and the Heartbreakers"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/4b57b25e821e59d606538aa963ea63ea828ae9bc?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "American Girl"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f9c903069dab033b532c4f7a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f9c903069dab033b532c4f7a",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f9c903069dab033b532c4f7a",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1973"
+            },
+            "artists": [
+                {
+                    "name": "Gladys Knight & The Pips"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/8b733f6fa9d2c8a720def6e0e56af13ff20a80de?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Midnight Train to Georgia"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273af6b486fa0a2959f79c8acd8",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02af6b486fa0a2959f79c8acd8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851af6b486fa0a2959f79c8acd8",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979-01-01"
+            },
+            "artists": [
+                {
+                    "name": "The Knack"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/5ef1f80be4197f4863d1e0f3f267259a97d26f15?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "My Sharona"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27305c7aec05eabf142cc33b936",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0205c7aec05eabf142cc33b936",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485105c7aec05eabf142cc33b936",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978-06-09"
+            },
+            "artists": [
+                {
+                    "name": "The Rolling Stones"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/0acd6e62865fd9b9a57f03b984796b0c72fc76e6?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Beast Of Burden - Remastered 1994"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2737a36d4a054f611e449eca370",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e027a36d4a054f611e449eca370",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048517a36d4a054f611e449eca370",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1976"
+            },
+            "artists": [
+                {
+                    "name": "Leo Sayer"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/8d6039ebe4c4c26eb72cc57b859a6ef3f72ad869?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "You Make Me Feel Like Dancing - Remastered"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27398e08f603553915a041b6937",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0298e08f603553915a041b6937",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485198e08f603553915a041b6937",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1972-05-01"
+            },
+            "artists": [
+                {
+                    "name": "Bill Withers"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/bee37f8b352a6faa19b294678f94b0bd93eba051?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Lean on Me"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273dcd829318f889df294d2bb7a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02dcd829318f889df294d2bb7a",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851dcd829318f889df294d2bb7a",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1973-01-01"
+            },
+            "artists": [
+                {
+                    "name": "King Harvest"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/7a9886f285cbed054d2209c1076094f573f97de2?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Dancing in the Moonlight"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0222219b7ba681368a16c219fe",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485122219b7ba681368a16c219fe",
+                        "width": 64
+                    }
+                ],
+                "release_date": "2009-11-03"
+            },
+            "artists": [
+                {
+                    "name": "Bee Gees"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/2ea9891e74d96ae5302e5d9ca3e8637dce52642a?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "You Should Be Dancing"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a6479db910d22f5aa4546af1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851a6479db910d22f5aa4546af1",
+                        "width": 64
+                    }
+                ],
+                "release_date": "2000-01-01"
+            },
+            "artists": [
+                {
+                    "name": "Gloria Gaynor"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/dbb95f59bd69ddc2a024d2bec1478e20d3c5819c?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "I Will Survive - Single Version"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273dc0b5f94d9ee21d0eb209d81",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02dc0b5f94d9ee21d0eb209d81",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851dc0b5f94d9ee21d0eb209d81",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1976-07-01"
+            },
+            "artists": [
+                {
+                    "name": "The Bellamy Brothers"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/5b748fccc2bf6ae74f992c3a19273eae7c37f5cd?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Let Your Love Flow"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b2622bac004d3ef8fac1095b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b2622bac004d3ef8fac1095b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b2622bac004d3ef8fac1095b",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978"
+            },
+            "artists": [
+                {
+                    "name": "Patrick Hernandez"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/5898691af1ed6722dfb6d16340d92a39e55e383d?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Born to Be Alive - The Original"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731de27f12958ceb8b1f65461a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e021de27f12958ceb8b1f65461a",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048511de27f12958ceb8b1f65461a",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1976-06-14"
+            },
+            "artists": [
+                {
+                    "name": "Chicago"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/0c2f81d7582232eac12276cc093f67583b9a81d7?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "If You Leave Me Now"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f66d92378b233aa8253e71d2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f66d92378b233aa8253e71d2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f66d92378b233aa8253e71d2",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1995"
+            },
+            "artists": [
+                {
+                    "name": "Sister Sledge"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/c8e62c272be0fd81117f2059aaa6b5eaaa1e5b73?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "We Are Family - 1995 Remaster"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734384b6976cadaec272114022",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e024384b6976cadaec272114022",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048514384b6976cadaec272114022",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979-03-23"
+            },
+            "artists": [
+                {
+                    "name": "KISS"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/b1b157ab314c7b457e21318a7035c6a44555f1b7?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "I Was Made For Lovin' You"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a5ce236c22035a02cf87d4de",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a5ce236c22035a02cf87d4de",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851a5ce236c22035a02cf87d4de",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1972-01-01"
+            },
+            "artists": [
+                {
+                    "name": "Stealers Wheel"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/74ef5bc5fcf2f4ce01f3737b3429c8f339ded520?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Stuck In The Middle With You"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739c71f323289b18028b82b822",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e029c71f323289b18028b82b822",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048519c71f323289b18028b82b822",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1970-01-01"
+            },
+            "artists": [
+                {
+                    "name": "Mungo Jerry"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/fac3e1142816840107f1eba47c64589375229749?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "In the Summertime"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ba6340ac3b1653b6ea0e5da5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ba6340ac3b1653b6ea0e5da5",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851ba6340ac3b1653b6ea0e5da5",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978"
+            },
+            "artists": [
+                {
+                    "name": "The Doobie Brothers"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/64635139a882867c50a4da283c36822c5608abcc?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "What a Fool Believes"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273dede94a3ef0bb67eb53668b3",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02dede94a3ef0bb67eb53668b3",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851dede94a3ef0bb67eb53668b3",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1973-08-01"
+            },
+            "artists": [
+                {
+                    "name": "The Marshall Tucker Band"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/56bd32ff7371952cb84e1bd7f35c3df70bad27c7?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Can't You See"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d7d4922d7d2b7e596084075e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d7d4922d7d2b7e596084075e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d7d4922d7d2b7e596084075e",
+                        "width": 64
+                    }
+                ],
+                "release_date": "2010"
+            },
+            "artists": [
+                {
+                    "name": "Kansas"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/906bc723615987e6eb299a8ea4f7a73e59b4972f?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Carry on Wayward Son"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e7248738c2f7ce3b5584b15d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e7248738c2f7ce3b5584b15d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e7248738c2f7ce3b5584b15d",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1970-11-23"
+            },
+            "artists": [
+                {
+                    "name": "Yusuf / Cat Stevens"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/37e981644c257f80d47288d967fdb48dc3f03ed9?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Father And Son"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273131815c9e03c070a5a953a43",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02131815c9e03c070a5a953a43",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851131815c9e03c070a5a953a43",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1974-01-01"
+            },
+            "artists": [
+                {
+                    "name": "Carl Douglas"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/9986a744a86515731713d009f2d113810fae3a5d?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Kung Fu Fighting"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e022043dd3544a339547d04b436",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048512043dd3544a339547d04b436",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978-11-02"
+            },
+            "artists": [
+                {
+                    "name": "The Police"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/0e03a027992294c5c49cf64fcaf9a48e89139556?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Roxanne"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732030f2acc06a7f49ca5d49bc",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e022030f2acc06a7f49ca5d49bc",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048512030f2acc06a7f49ca5d49bc",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978"
+            },
+            "artists": [
+                {
+                    "name": "Chris Norman"
+                },
+                {
+                    "name": "Suzi Quatro"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/d605eca2acc4174790ba4a7d54a73ad0357d0480?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Stumblin' In - 2017 Remaster"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2738cffbbb7fe8645a486a85ea9",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e028cffbbb7fe8645a486a85ea9",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048518cffbbb7fe8645a486a85ea9",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1975-04-08"
+            },
+            "artists": [
+                {
+                    "name": "Aerosmith"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/d65a71bce3857d4221fd2d81ff03cc4e7f3a025e?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Walk This Way"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e8f69ab903901064b1f19249",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e8f69ab903901064b1f19249",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e8f69ab903901064b1f19249",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1976"
+            },
+            "artists": [
+                {
+                    "name": "Thin Lizzy"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/753aaed7d16ec2dac0ff8af05123177a44c19351?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "The Boys Are Back In Town"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273dbb735f620859d5be2073920",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02dbb735f620859d5be2073920",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851dbb735f620859d5be2073920",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979-07-30"
+            },
+            "artists": [
+                {
+                    "name": "CHIC"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/50cf601802354e9717f21981660e2740bd9059a8?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Good Times - 2018 Remaster"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a07cc88003498f7559787673",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a07cc88003498f7559787673",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851a07cc88003498f7559787673",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1975-01-01"
+            },
+            "artists": [
+                {
+                    "name": "War"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/2c5730c9a5ced51d50ccf51b1b8f28cb20abcf99?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Low Rider"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734a91996f05bcfcdbc2c88e0e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e024a91996f05bcfcdbc2c88e0e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048514a91996f05bcfcdbc2c88e0e",
+                        "width": 64
+                    }
+                ],
+                "release_date": "2006-01-01"
+            },
+            "artists": [
+                {
+                    "name": "Blondie"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/5b055e6106d94a0824f403059416cdecd10899d2?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Heart Of Glass"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e026ce61113662ecf693b605ee5",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977"
+            },
+            "artists": [
+                {
+                    "name": "Billy Joel"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/683fb824088e7713ccfdd520becab33b041574ff?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "She's Always a Woman"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fe24dcd263c08c6dd84b6e8c",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851fe24dcd263c08c6dd84b6e8c",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1971-08-14"
+            },
+            "artists": [
+                {
+                    "name": "The Who"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/02716794fa9bf3d9263d2ddd32389bbb9cede48b?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Baba O'Riley"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273bddcc30c6a3288e725aec2df",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02bddcc30c6a3288e725aec2df",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851bddcc30c6a3288e725aec2df",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-01-01"
+            },
+            "artists": [
+                {
+                    "name": "Supertramp"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/1e49176e48cf7142220b4e212b5230d4063b8925?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Give A Little Bit"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736f093a6ae88a5ca8ed53b9f7",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e026f093a6ae88a5ca8ed53b9f7",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048516f093a6ae88a5ca8ed53b9f7",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-11-01"
+            },
+            "artists": [
+                {
+                    "name": "Eric Clapton"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/8c98d4e14fa0df67c7a1128842fcf1a125684298?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Wonderful Tonight"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2737d419ac975423c069995c7bb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e027d419ac975423c069995c7bb",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048517d419ac975423c069995c7bb",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1973"
+            },
+            "artists": [
+                {
+                    "name": "The Doobie Brothers"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/1c108781a384f85c036fbeb917c93a1c45c3b731?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Long Train Runnin'"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273dc60cf9a010f86354e6735dd",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02dc60cf9a010f86354e6735dd",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851dc60cf9a010f86354e6735dd",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978"
+            },
+            "artists": [
+                {
+                    "name": "Gerry Rafferty"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/f40bc90a8c8d0b8e2f1d6b8372c2d6478ff22b8f?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Right Down the Line"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27357df7ce0eac715cf70e519a7",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0257df7ce0eac715cf70e519a7",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485157df7ce0eac715cf70e519a7",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-02-04"
+            },
+            "artists": [
+                {
+                    "name": "Fleetwood Mac"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/64b1e9388ec19f29fa36d38d1f80f56d77df56a3?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Don't Stop - 2004 Remaster"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ed9531fd3add18804cd6d7c1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ed9531fd3add18804cd6d7c1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851ed9531fd3add18804cd6d7c1",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1973"
+            },
+            "artists": [
+                {
+                    "name": "Lynyrd Skynyrd"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/f0a103a89a529a5986a359dc2aca94e643e36cdf?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Simple Man"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730c3a44d76807bef665eacfa3",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e020c3a44d76807bef665eacfa3",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048510c3a44d76807bef665eacfa3",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979-04-25"
+            },
+            "artists": [
+                {
+                    "name": "Donna Summer"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/b48b9f29b11d9821fc4f34e1307bf2d94867cc7b?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Hot Stuff"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736f5a9bf7c8093763dd2a4a82",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e026f5a9bf7c8093763dd2a4a82",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048516f5a9bf7c8093763dd2a4a82",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979-05-31"
+            },
+            "artists": [
+                {
+                    "name": "Electric Light Orchestra"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/ff59f62656515a56f70779849bd189ae8c3ca7f5?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Don't Bring Me Down"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273dc60cf9a010f86354e6735dd",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02dc60cf9a010f86354e6735dd",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851dc60cf9a010f86354e6735dd",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978"
+            },
+            "artists": [
+                {
+                    "name": "Gerry Rafferty"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/624385519f6986ace940c37d1edd99d5b7d8a262?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Baker Street"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e7248738c2f7ce3b5584b15d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e7248738c2f7ce3b5584b15d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e7248738c2f7ce3b5584b15d",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1970-11-23"
+            },
+            "artists": [
+                {
+                    "name": "Yusuf / Cat Stevens"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/239455cdf5e6cc6d9c0aa2c93e2d908bf6425005?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Wild World"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02db9c5945ce3a3f873695d18a",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851db9c5945ce3a3f873695d18a",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1973-07-26"
+            },
+            "artists": [
+                {
+                    "name": "ZZ Top"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/1de566ed732e7c2762c9c4432eb1ac3f6fa41d39?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "La Grange (2005 Remaster)"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739d52169c3b609d4630e04433",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e029d52169c3b609d4630e04433",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048519d52169c3b609d4630e04433",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-01-01"
+            },
+            "artists": [
+                {
+                    "name": "Commodores"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/8e3acac4d6f2cda5ad2b8e62cf6ebc8001bcf6f4?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Brick House"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27327117cef5de6fa0676cf79d1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0227117cef5de6fa0676cf79d1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485127117cef5de6fa0676cf79d1",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1994-08-10"
+            },
+            "artists": [
+                {
+                    "name": "Barry White"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/9cbce1b00da7ce1308a97890b5dd4e6f662a6046?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "You're The First, The Last, My Everything - Edit"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fe28f2179e0529ae0520f3bd",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fe28f2179e0529ae0520f3bd",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851fe28f2179e0529ae0520f3bd",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-02-25"
+            },
+            "artists": [
+                {
+                    "name": "Peter Gabriel"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/cd8faccf6bf8dc678475739fb6f5c65e35f10ec0?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Solsbury Hill"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e1e350d06ffebd2e19e047ce",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e1e350d06ffebd2e19e047ce",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e1e350d06ffebd2e19e047ce",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1971-05-01"
+            },
+            "artists": [
+                {
+                    "name": "Bill Withers"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/4894057a7cdc4be59cd335cfc369ba2d3a3b2ad8?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Ain't No Sunshine"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e022fee61bfec596bb6f5447c50",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048512fee61bfec596bb6f5447c50",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1976-09-28"
+            },
+            "artists": [
+                {
+                    "name": "Stevie Wonder"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/5ae5258492617cf3d463b717e8a28fc59243f449?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Sir Duke"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273bbf0146981704a073405b6c2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02bbf0146981704a073405b6c2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851bbf0146981704a073405b6c2",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1973-01-05"
+            },
+            "artists": [
+                {
+                    "name": "Aerosmith"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/b56a69c9cddc7358e940daa656a8dd5874e5f58f?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Dream On"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ed9531fd3add18804cd6d7c1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ed9531fd3add18804cd6d7c1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851ed9531fd3add18804cd6d7c1",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1973"
+            },
+            "artists": [
+                {
+                    "name": "Lynyrd Skynyrd"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/f0eecd2eae0c59a439392dec2fe9b53dc98cfc5b?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Free Bird"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e028ec81cc654b45ade8bdf1486",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048518ec81cc654b45ade8bdf1486",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979-10-02"
+            },
+            "artists": [
+                {
+                    "name": "The Police"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/065b9b3a34d9153ff2985426acfa55b8196ba50e?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Message In A Bottle"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b3adf9b1706b05af854bbad4",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b3adf9b1706b05af854bbad4",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b3adf9b1706b05af854bbad4",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1970-02-01"
+            },
+            "artists": [
+                {
+                    "name": "James Taylor"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/6add6368095cb2d6d5e458421c79a9de81fc2e76?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Fire and Rain - 2019 Remaster"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d539ebc9ac4dc40946532580",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d539ebc9ac4dc40946532580",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d539ebc9ac4dc40946532580",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979-10-19"
+            },
+            "artists": [
+                {
+                    "name": "Prince"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/69de400e0693832707ef2d5fa0ef3260e3fe99b9?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "I Wanna Be Your Lover"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c12470f3f9af38f20ba4f2f1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c12470f3f9af38f20ba4f2f1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851c12470f3f9af38f20ba4f2f1",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-10-03"
+            },
+            "artists": [
+                {
+                    "name": "Dolly Parton"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/f77d781b93ef5c2dda4e867644fe72fa986c8c61?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Here You Come Again"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f20825485137abccd82b9665",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f20825485137abccd82b9665",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f20825485137abccd82b9665",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1971-05-18"
+            },
+            "artists": [
+                {
+                    "name": "Rod Stewart"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/0fc64bacd8ebd5b672274d055b374d6318e93881?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Maggie May"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2735405ef9e393f5f1e53b4b42e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048515405ef9e393f5f1e53b4b42e",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1979-03-29"
+            },
+            "artists": [
+                {
+                    "name": "Supertramp"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/40810a2f83247bea42ea6067ff47c183128e3c26?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "The Logical Song - Remastered 2010"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273da8119b8c2aea9f623289862",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02da8119b8c2aea9f623289862",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851da8119b8c2aea9f623289862",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1976-01-05"
+            },
+            "artists": [
+                {
+                    "name": "Billy Ocean"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/591156d76c73bb09f18922aed86b379637a07368?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Love Really Hurts Without You"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273286a0837ff3424065a735e0a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02286a0837ff3424065a735e0a",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851286a0837ff3424065a735e0a",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1976-05-14"
+            },
+            "artists": [
+                {
+                    "name": "AC/DC"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/b057af7c776de98ed5aa2a73bd3f5b9e6c84459d?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "T.N.T."
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27365a7b0a6969f0efcde4b5aca",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0265a7b0a6969f0efcde4b5aca",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485165a7b0a6969f0efcde4b5aca",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1975-03-19"
+            },
+            "artists": [
+                {
+                    "name": "KISS"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/e9bee4e5f3f3073b17b5b691ff82b4c2b0cb98d3?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Rock And Roll All Nite"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a14b08b9a6616e121df5e8b0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a14b08b9a6616e121df5e8b0",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851a14b08b9a6616e121df5e8b0",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1972-10-28"
+            },
+            "artists": [
+                {
+                    "name": "Stevie Wonder"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/f17e922990935fce41fdd85c704606650cb8508a?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Superstition"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e025d0a8e54aba5181c79593b94",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048515d0a8e54aba5181c79593b94",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1975-06-10"
+            },
+            "artists": [
+                {
+                    "name": "Eagles"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/076bad35fd16728e29c5f0a33a7363745c775345?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "One of These Nights - 2013 Remaster"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e020ddd7e736f870994f4707947",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048510ddd7e736f870994f4707947",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1972-11-01"
+            },
+            "artists": [
+                {
+                    "name": "Steely Dan"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/08fcfd47f12bef5b57ec18eb4a9e4b11481392c3?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Reelin' In The Years"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27394296e9c72ad8ba4c3ba7c56",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0294296e9c72ad8ba4c3ba7c56",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485194296e9c72ad8ba4c3ba7c56",
+                        "width": 64
+                    }
+                ],
+                "release_date": "2006-07-29"
+            },
+            "artists": [
+                {
+                    "name": "John Paul Young"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/232f9f979ad1c8a70315eca897524b25d708cbc5?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Love Is in the Air"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739cef5b2e4c9104c678973f44",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e029cef5b2e4c9104c678973f44",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048519cef5b2e4c9104c678973f44",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977-05-14"
+            },
+            "artists": [
+                {
+                    "name": "Heart"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/b742393cfac34ba605f319a4a8169ed2581bd18b?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Barracuda"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e026ce61113662ecf693b605ee5",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1977"
+            },
+            "artists": [
+                {
+                    "name": "Billy Joel"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/3dba540dafbc6039399332c8b8389b4bd0b99070?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Just the Way You Are"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27301676d2605aa96da23c059b4",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0201676d2605aa96da23c059b4",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485101676d2605aa96da23c059b4",
+                        "width": 64
+                    }
+                ],
+                "release_date": "2002-06-11"
+            },
+            "artists": [
+                {
+                    "name": "Jimmy Cliff"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/3f5fdf6e888883f0e35ce6f3744d7ca46a15cdd3?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "I Can See Clearly Now"
+        }
+    },
+    {
+        "track": {
+            "album": {
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0205b07080bdc2dd0e2cf6f008",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485105b07080bdc2dd0e2cf6f008",
+                        "width": 64
+                    }
+                ],
+                "release_date": "1978-10-07"
+            },
+            "artists": [
+                {
+                    "name": "Dire Straits"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/6c0bfa3651ea6c18e00fb5366b86655ca691a852?cid=65b708073fc0480ea92a077233ca87bd",
+            "name": "Sultans of Swing"
+        }
+    }
+]

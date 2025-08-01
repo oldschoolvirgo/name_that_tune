@@ -1,0 +1,190 @@
+/* Base styles for html and body to ensure full viewport coverage */
+html, body {
+    font-family: 'Arial', sans-serif; /* Using Inter font as per instructions */
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden; /* Prevents unwanted scrolling */
+    display: flex; /* Use flexbox to center the mainDiv */
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f2f5; /* Light background for the page */
+}
+
+/* Main container for the application, using CSS Grid */
+.mainDiv {
+    display: grid;
+    /* Defines 4 rows: Heading (11%), Track Info (52%), Buttons (26%), Footer (11%) */
+    grid-template-rows: 11% 52% 26% 11%;
+    grid-template-columns: 100%; /* Single column */
+    gap: 0; /* No gaps between grid items */
+    grid-template-areas:
+        "headingDiv"
+        "trackInformationDiv"
+        "buttonsDiv"
+        "footerDiv";
+    width: 100%;
+    max-width: 500px; /* Limit max width for better mobile experience */
+    height: 100%;
+    max-height: 800px; /* Limit max height for better desktop experience */
+    background-color: #ffffff;
+    border-radius: 12px; /* Rounded corners for the main app container */
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    overflow: hidden; /* Ensure content stays within rounded corners */
+}
+
+/* Styling for common grid areas to visualize layout */
+.headingDiv, .buttonsDiv, .footerDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box; /* Include padding and border in element's total width and height */
+    padding: 10px;
+    color: #333;
+}
+
+.headingDiv {
+    grid-area: headingDiv;
+    background-color: #e0f7fa; /* Light blue background */
+    font-size: clamp(1.2rem, 3vw, 2rem); /* Responsive font size for heading */
+    font-weight: bold;
+    border-bottom: 1px solid #c0e0e3;
+}
+
+.headingDiv h1 {
+    margin: 0;
+    padding: 0;
+}
+
+/* Track Information Section */
+.trackInformationDiv {
+    grid-area: trackInformationDiv;
+    display: flex;
+    flex-direction: column; /* Stack image and details vertically */
+    justify-content: flex-start; /* Align items to the top of this section */
+    align-items: center;
+    box-sizing: border-box;
+    padding: 15px; /* Padding for spacing within this section */
+    visibility: hidden; 
+}
+
+.trackImageDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Take full width of its parent */
+    /* No explicit height here, as the image itself dictates the height */
+}
+
+.trackImage {
+    height: 26vh; /* Set image height to 26% of the viewport height */
+    width: auto; /* Automatically adjust width to maintain aspect ratio */
+    max-width: 90%; /* Ensure image doesn't overflow horizontally */
+    display: block; /* Remove extra space below image */
+    object-fit: contain; /* Scales the image to fit within the element's box while maintaining its aspect ratio */
+    border-radius: 8px; /* Slightly rounded corners for the image */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); /* Soft shadow for depth */
+    background-color: #eee; /* Placeholder background for image if src is empty */
+    display: flex; /* For centering placeholder text */
+    justify-content: center;
+    align-items: center;
+    font-size: 0.8rem;
+    color: #666;
+    text-align: center;
+}
+
+/* Track Details Section (H1 element) */
+.trackDetailsDiv {
+    flex-grow: 1; /* Takes up all remaining vertical space in trackInformationDiv */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%; /* Take full width */
+    overflow: hidden; /* Hide overflow if content is too large */
+    margin-top: 15px; /* Space between image and text */
+}
+
+.trackDetailsDiv h1 {
+    margin: 0; /* Remove default h1 margin */
+    padding: 0 10px; /* Horizontal padding for text */
+    font-size: clamp(1.2rem, 3.5vw, 2.2rem); /* Responsive font size for track details */
+    color: #444;
+    word-break: break-word; /* Allows long words to break and wrap */
+    max-height: 100%; /* Ensure h1 doesn't overflow its parent */
+    overflow-y: auto; /* Add vertical scroll if text is too long */
+    line-height: 1.3; /* Adjust line height for readability */
+}
+
+/* Buttons Section */
+.buttonsDiv {
+    grid-area: buttonsDiv;
+    display: flex;
+    flex-direction: column; /* Stack buttons vertically on small screens */
+    gap: 15px; /* Space between buttons */
+    background-color: #f8f9fa;
+    border-top: 1px solid #e9ecef;
+    padding: 20px;
+}
+
+.buttonsDiv button {
+    background-color: #007bff; /* Primary button color */
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-size: 1.1rem;
+    border-radius: 25px; /* More rounded buttons */
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 4px 8px rgba(0, 123, 255, 0.2);
+    width: 100%; /* Make buttons full width */
+    max-width: 250px; /* Limit button width */
+    margin: 0 auto; /* Center buttons */
+}
+
+.buttonsDiv button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px); /* Slight lift effect on hover */
+}
+
+.buttonsDiv button:active {
+    transform: translateY(0); /* Press down effect */
+    box-shadow: 0 2px 4px rgba(0, 123, 255, 0.3);
+}
+
+
+
+/* Responsive adjustments for buttons */
+@media (min-width: 480px) {
+    .buttonsDiv {
+        flex-direction: row; /* Arrange buttons horizontally on wider screens */
+        justify-content: space-around; /* Distribute space evenly */
+        flex-wrap: wrap; /* Allow buttons to wrap if needed */
+    }
+    .buttonsDiv button {
+        width: auto; /* Allow buttons to size based on content */
+        min-width: 120px; /* Minimum width for buttons */
+        max-width: 180px; /* Maximum width for buttons */
+    }
+}
+
+/* Footer Section */
+.footerDiv {
+    grid-area: footerDiv;
+    background-color: #e0f7fa; /* Match heading background */
+    border-top: 1px solid #c0e0e3;
+}
+
+/* Placeholder for image content */
+.trackImage:not([src]):before {
+    content: "Image Placeholder";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: #e0e0e0;
+    color: #777;
+    border-radius: 8px;
+}
