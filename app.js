@@ -9,6 +9,7 @@ var audioPlayer = document.getElementById("audioPlayer");
 var audioPlayerSource = document.getElementById("audioPlayerSource");
 var selectDecade = document.getElementById("selectDecade");
 var selectedDecade = document.querySelector('input[name="selectedDecade"]:checked');
+var dataURL = `https://raw.githubusercontent.com/oldschoolvirgo/name_that_tune/refs/heads/main/${selectedDecade.value}`;
 
 //load defaults
 window.addEventListener('load', function () {
@@ -21,7 +22,7 @@ window.addEventListener('load', function () {
     }
 
     //load the first random track
-    fetchRandomTrack(jsonFile = selectedDecade.value);
+    fetchRandomTrack(jsonFile = dataURL);
     
 });
 
@@ -61,7 +62,7 @@ nextButton.addEventListener('click', function () {
 
     trackInformationDiv.setAttribute('style', 'visibility: hidden;');
 
-    fetchRandomTrack(jsonFile = selectedDecade.value); //get a random track
+    fetchRandomTrack(jsonFile = dataURL); //get a random track
     
     audioButton.textContent = "Pause";
     audioButton.setAttribute('style', 'opacity: 1.0;')
