@@ -9,7 +9,6 @@ var audioPlayer = document.getElementById("audioPlayer");
 var audioPlayerSource = document.getElementById("audioPlayerSource");
 var selectDecade = document.getElementById("selectDecade");
 var selectedDecade = document.querySelector('input[name="selectedDecade"]:checked');
-var dataURL = `https://raw.githubusercontent.com/oldschoolvirgo/name_that_tune/refs/heads/main/${selectedDecade.value}`;
 
 //load defaults
 window.addEventListener('load', function () {
@@ -22,6 +21,7 @@ window.addEventListener('load', function () {
     }
 
     //load the first random track
+    var dataURL = `https://raw.githubusercontent.com/oldschoolvirgo/name_that_tune/refs/heads/main/${selectedDecade.value}`;
     fetchRandomTrack(jsonFile = dataURL);
     
 });
@@ -62,6 +62,7 @@ nextButton.addEventListener('click', function () {
 
     trackInformationDiv.setAttribute('style', 'visibility: hidden;');
 
+    var dataURL = `https://raw.githubusercontent.com/oldschoolvirgo/name_that_tune/refs/heads/main/${selectedDecade.value}`;
     fetchRandomTrack(jsonFile = dataURL); //get a random track
     
     audioButton.textContent = "Pause";
@@ -73,6 +74,8 @@ nextButton.addEventListener('click', function () {
 
 //get random track
 async function fetchRandomTrack(jsonFile) {
+
+    console.log(jsonFile);
 
     const trackDetailsDiv = document.getElementById('trackDetailsDiv');
     trackDetailsDiv.textContent = 'Loading track...'; // Show loading state
@@ -115,8 +118,11 @@ async function fetchRandomTrack(jsonFile) {
             ? track.artists.map(artist => artist.name || 'N/A').join(', ')
             : 'N/A';
         const albumReleaseDate = track.album ? (track.album.release_date || 'N/A') : 'N/A';
+        const date = new Date(albumReleaseDate);
+        const dateOptions = { year: 'numeric', month: 'long', day: 'numeric' };
+        const albumReleaseDateFormatted = date.toLocaleDateString('en-US', dateOptions);
 
-        trackDetailsDiv.innerHTML = `${trackName}<br>${artistNames}<br>${albumReleaseDate}`;
+        trackDetailsDiv.innerHTML = `${trackName}<br>${artistNames}<br>${albumReleaseDateFormatted}`;
         
         const previewUrl = track.preview_url || 'N/A';
         //audioPlayer.pause();
