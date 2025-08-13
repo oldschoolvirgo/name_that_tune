@@ -6,6 +6,7 @@ var answerButton = document.getElementById("answerButton");
 var audioButton = document.getElementById("audioButton");
 var nextButton = document.getElementById("nextButton");
 var audioPlayer = document.getElementById("audioPlayer");
+var rewindSoundFX = document.getElementById("rewindSoundFX");
 var audioPlayerSource = document.getElementById("audioPlayerSource");
 var selectDecade = document.getElementById("selectDecade");
 var selectedDecade = document.querySelector('input[name="selectedDecade"]:checked');
@@ -41,7 +42,22 @@ selectDecade.addEventListener('click', function () {
 audioButton.addEventListener('click', function () {
 
     if (!audioPlayer.paused) {
+        rewindSoundFX.play();
         audioPlayer.pause();
+        Swal.fire({
+            title: "15 Seconds starts now!!",
+            text: "Guess the Song, Artist, and Lyrics",
+            timer: 15000,
+            timerProgressBar: true,
+            // icon: "info",
+            //target: document.getElementById('karaokeModeBackground')//
+        }).then((result) => {
+            /* Read more about handling dismissals below */
+            if (result.dismiss === Swal.DismissReason.timer) {
+                Swal.fire("Time is up!");
+                //console.log("I was closed by the timer");
+            }
+        });
         audioButton.textContent = "Play";
     } else {
         audioPlayer.play();

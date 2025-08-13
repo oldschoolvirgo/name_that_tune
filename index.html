@@ -7,6 +7,7 @@
     <title>Name That Tune!</title>
     <link rel="stylesheet" href="style.css">
     <script defer src="app.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </head>
 
 <body>
@@ -67,6 +68,10 @@
 
     <audio autoplay loop id="audioPlayer">
         <source id="audioPlayerSource" src="" type="audio/mpeg">
+    </audio>
+
+    <audio autoplay id="rewindSoundFX">
+        <source id="rewindSoundFXSource" src="https://raw.githubusercontent.com/oldschoolvirgo/name_that_tune/main/rewind.mp3" type="audio/mpeg">
     </audio>
 
 </body>
